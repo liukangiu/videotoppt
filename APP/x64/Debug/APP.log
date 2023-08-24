@@ -1,0 +1,20 @@
+﻿  model.cpp
+D:\Projects\c++\video_ppt是这个\APP\model.cpp(110,34): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\Projects\c++\video_ppt是这个\APP\model.cpp(110,26): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\Projects\c++\video_ppt是这个\APP\model.cpp(147,19): warning C4244: “return”: 从“_Tp”转换到“float”，可能丢失数据
+          with
+          [
+              _Tp=double
+          ]
+  video2ppt.cpp
+D:\Projects\c++\video_ppt是这个\APP\video2ppt.cpp(5,10): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+D:\Projects\c++\video_ppt是这个\APP\video2ppt.cpp(32,37): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\Projects\c++\video_ppt是这个\APP\video2ppt.cpp(50,21): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\Projects\c++\video_ppt是这个\APP\video2ppt.cpp(119,14): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\Projects\c++\video_ppt是这个\APP\video2ppt.cpp(120,27): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\Projects\c++\video_ppt是这个\APP\video2ppt.cpp(123,18): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\Projects\c++\video_ppt是这个\APP\video2ppt.cpp(124,16): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\Projects\c++\video_ppt是这个\APP\video2ppt.cpp(190,51): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\Projects\c++\video_ppt是这个\APP\video2ppt.cpp(236,48): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  正在生成代码...
+  APP.vcxproj -> D:\Projects\c++\video_ppt是这个\x64\Debug\APP.lib
