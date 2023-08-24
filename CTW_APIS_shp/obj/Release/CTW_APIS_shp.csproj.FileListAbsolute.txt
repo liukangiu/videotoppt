@@ -1,0 +1,8 @@
+D:\Projects\c++\video_ppt\CTW_APIS_shp\bin\Release\CTW_APIS_shp.dll
+D:\Projects\c++\video_ppt\CTW_APIS_shp\bin\Release\CTW_APIS_shp.pdb
+D:\Projects\c++\video_ppt\CTW_APIS_shp\obj\Release\CTW_APIS_shp_cmd.Form2.resources
+D:\Projects\c++\video_ppt\CTW_APIS_shp\obj\Release\CTW_APIS_shp.Properties.Resources.resources
+D:\Projects\c++\video_ppt\CTW_APIS_shp\obj\Release\CTW_APIS_shp.csproj.GenerateResource.cache
+D:\Projects\c++\video_ppt\CTW_APIS_shp\obj\Release\CTW_APIS_shp.csproj.CoreCompileInputs.cache
+D:\Projects\c++\video_ppt\CTW_APIS_shp\obj\Release\CTW_APIS_shp.dll
+D:\Projects\c++\video_ppt\CTW_APIS_shp\obj\Release\CTW_APIS_shp.pdb
